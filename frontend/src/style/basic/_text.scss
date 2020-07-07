@@ -1,0 +1,39 @@
+.text-bold {
+  font-weight: 900;
+}
+
+.text-light {
+  font-weight: lighter !important;
+}
+
+.text-primary {
+  color: $primary-color !important;
+}
+
+.text-success {
+  color: $success-color !important;
+}
+
+.text-grey {
+  color: #ccc !important;
+}
+
+.text-lg {
+  font-size: 1.2rem;
+}
+
+.text-mid {
+  font-size: 1rem;
+}
+
+.text-small {
+  font-size: 0.8rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}

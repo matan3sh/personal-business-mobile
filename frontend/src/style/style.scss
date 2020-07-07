@@ -1,0 +1,21 @@
+// Setup
+@import 'setup/variables';
+
+// Basics
+@import 'basic/base';
+@import 'basic/button';
+@import 'basic/input';
+@import 'basic/form';
+@import 'basic/layout';
+@import 'basic/text';
+@import 'basic/alert';
+
+// Components
+@import 'components/about';
+@import 'components/navbar';
+@import 'components/navbottom';
+@import 'components/showcase';
+@import 'components/home';
+@import 'components/contactform';
+@import 'components/contact';
+@import 'components/floatingbutton';
